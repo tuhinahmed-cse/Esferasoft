@@ -1,0 +1,46 @@
+[
+    { "pid": "1",
+      "name": "Classic Leather Shoes",
+      "image": "https://assets.reebok.com/images/w_600,f_auto,q_auto/361aab0c115e4249b382add80029a012_9366/Classic_Leather_Shoes_White_GY0952_01_standard.jpg",
+      "category": "shoes",
+      "brand": "rebook",
+      "size": "large",
+      "price": "1000",
+      "year": "2020"
+    },{
+      "pid": "2",
+      "name": "Nike Blazer Mid '77",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/6eea83ac-7862-459e-abf5-2f566e2f0ac1/blazer-mid-77-vintage-shoes-CBDjT0.png",
+      "category": "shoes",
+      "brand": "nike",
+      "size": "medium",
+      "price": "1000",
+      "year": "2020"
+    },{
+      "pid": "3",
+      "name": "Nike Air Max 270",
+      "image": "https://i8.amplience.net/t/jpl/jdau_product_list?plu=jd_AH80501990010_al&qlt=85&qlt=92&w=320&h=320&v=1&fmt=auto",
+      "category": "shoes",
+      "brand": "nike",
+      "size": "large",
+      "price": "1000",
+      "year": "2020"
+    },{"pid": "4",
+      "name": "BB 4000 II Shoes",
+      "image": "https://www.kicksonfire.com/wp-content/uploads/2021/02/dime-reebok-bb4000-10.jpg",
+      "category": "shoes",
+      "brand": "rebook",
+      "size": "small",
+      "price": "1000",
+      "year": "2020"
+    },{
+      "pid": "5",
+      "name": "Dime Workout Plus Shoes",
+      "image": "https://sneakernews.com/wp-content/uploads/2022/12/dime-reebok-workout-plus-GW9767-2.jpg",
+      "category": "shoes",
+      "brand": "rebook",
+      "size": "large",
+      "price": "1000",
+      "year": "2020"
+    }
+  ]
